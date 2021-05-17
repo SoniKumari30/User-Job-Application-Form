@@ -6,7 +6,7 @@ class AdminDashboard extends React.Component{
     constructor(){
         super()
         this.state = {
-            candidates:[],
+            candidates:[],//
             default:'Front-End Developer'
             
         }

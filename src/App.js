@@ -6,7 +6,7 @@ import Admindashboard from './AdminDashboard'
 
 function App (props) {
     return (
-        <BrowserRouter>
+        <BrowserRouter>//
          <div>
             <h1>USER JOB APPLICATION APP</h1>
                <Link to="/">ApplicationForm</Link> |
