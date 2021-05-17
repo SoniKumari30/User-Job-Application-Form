@@ -5,7 +5,7 @@ class ApplicationForm extends React.Component{
  
     constructor(){//
         super()
-        this.state = {
+        this.state = {//
             name: '',
             email:'',
             contact: '',
