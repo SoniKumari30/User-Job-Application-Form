@@ -3,9 +3,9 @@ import axios from 'axios'
 
 class ApplicationForm extends React.Component{
  
-    constructor(){//
+    constructor(){
         super()
-        this.state = {//
+        this.state = {
             name: '',
             email:'',
             contact: '',
